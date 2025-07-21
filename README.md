@@ -8,5 +8,7 @@
 🌱 Currently diving deeper into:
 
 Java & Object-Oriented Programming
+
 Full-stack development
+
 Problem-solving & algorithms
